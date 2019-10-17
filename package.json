@@ -1,7 +1,7 @@
 {
   "name": "google-closure-library-types",
   "description": "TypeScript type definition (d.ts) for Google Closure Library",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "author": "Teppei Sato <teppeis@gmail.com>",
   "main": "index.d.ts",
   "files": [
